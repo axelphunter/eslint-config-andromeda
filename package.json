@@ -5,7 +5,7 @@
   "description": "S19 project ESlint config",
   "main": ".eslintrc.js",
   "dependencies": {
-    "babel-eslint": "10.0.1",
+    "babel-eslint": "^10.0.1",
     "eslint": "5.9.0",
     "eslint-config-airbnb": "17.1.0",
     "eslint-import-resolver-babel-module": "^4.0.0",
